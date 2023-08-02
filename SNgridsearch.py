@@ -7,12 +7,9 @@
 #Importing libraries
 import math
 import numpy as np
-import matplotlib
 import matplotlib.pyplot as plt
-import random
 import pandas as pd
 from scipy.integrate import quad
-import time
 from scipy.interpolate import spline
 from numpy import linspace, meshgrid
 from matplotlib.mlab import griddata
